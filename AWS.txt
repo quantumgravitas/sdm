@@ -1,0 +1,18 @@
+sudo apt update 
+
+sudo apt install nodejs
+
+sudo apt install npm 
+
+mkdir "file-name" 
+
+cd "file-name" 
+
+git clone path 
+
+cd into cloned path folder 
+
+npm install express  
+
+node server.js 
+
