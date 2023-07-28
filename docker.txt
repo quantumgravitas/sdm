@@ -1,0 +1,39 @@
+sudo apt update 
+
+git -- version  if not installed install  sudo apt install git 
+
+ mkdir "file-name"  
+
+cd "file-name" 
+
+ git clone path  
+
+
+cd into clone folder  
+
+
+docker -v 
+
+
+
+sudo apt install docker.io 
+
+
+sudo systemctl status docker  
+
+
+sudo docker build -t  "file-name"  space .
+
+sudo docker images 
+
+
+sudo docker run -d  -p  host portno:server portno 
+
+to stop docker 
+
+sudo docker ps container id copy  
+
+sudo docker stop  containerid 
+
+
+
